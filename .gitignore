@@ -1,0 +1,14 @@
+# Ignore bundler files.
+/.bundle
+vendor/bundle
+
+db/*.sqlite3
+/log/*
+/tmp/*
+
+# Important configures
+config/database.yml
+config/config/secrets.yml
+
+# For emacs
+*~
